@@ -1,6 +1,6 @@
 function showPDF() {
     var pdfWindow = window.open("", "_blank");
-    pdfWindow.location.href = "viaggio.pdf"; // Sostituisci con il percorso del tuo file PDF
+    pdfWindow.location.href = "Viaggio.pdf"; // Sostituisci con il percorso del tuo file PDF
 }
 
 document.addEventListener("DOMContentLoaded", function() {
